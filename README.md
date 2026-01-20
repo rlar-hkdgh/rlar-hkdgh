@@ -12,4 +12,3 @@
 
 ![rlar-hkdgh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlar-hkdgh&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlar-hkdgh&langs_count=10&layout=compact&theme=dark&include_all_commits=true)](https://github.com/rlar-hkdgh/rlar-hkdgh)
