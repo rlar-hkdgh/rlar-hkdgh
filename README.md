@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlar-hkdgh&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlar-hkdgh&layout=compact&theme=dracula&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlar-hkdgh&langs_count=10&layout=compact&theme=dracula&include_all_commits=true)](https://github.com/rlar-hkdgh/rlar-hkdgh)
